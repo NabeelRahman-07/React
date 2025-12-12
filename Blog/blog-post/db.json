@@ -1,0 +1,14 @@
+{
+  "blogs": [
+    {
+      "id": "a1b6",
+      "title": "jasil",
+      "content": "jasil is a good boy"
+    },
+    {
+      "id": "0a27",
+      "title": "ziyadh",
+      "content": "ziyadh is a python developer"
+    }
+  ]
+}
